@@ -16,3 +16,4 @@ while finish == 0:
             print(f"{studentlate} {notserved} {nextnum}")
         elif data == "EOF":
             finish = 1
+# print()          
